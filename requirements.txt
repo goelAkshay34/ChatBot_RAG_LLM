@@ -1,0 +1,10 @@
+langchain==0.0.339
+streamlit==1.29.0
+google-ai-generativelanguage==0.4.0
+google-generativeai==0.3.2
+google-cloud-aiplatform==1.38.1
+faiss-cpu==1.7.4
+tiktoken==0.5.2
+PyPDF2==3.0.1
+sentence-transformers==2.2.2
+python-dotenv==1.0.1

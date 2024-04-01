@@ -1,5 +1,4 @@
 Question & Answer Application on custom document using Retrieval Augmented Generation (RAG) using Large Language Model (LLM). 
-
 ---
 title: RAG QnA
 emoji: 🏃

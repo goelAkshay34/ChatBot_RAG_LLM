@@ -1,6 +1,6 @@
-Question & Answer Application on custom document using Retrieval Augmented Generation (RAG) using Large Language Model (LLM). 
 ---
 title: RAG QnA
+Description: Question & Answer Application on custom document using Retrieval Augmented Generation (RAG) using Large Language Model (LLM)
 emoji: 🏃
 colorFrom: gray
 colorTo: purple

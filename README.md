@@ -1,3 +1,5 @@
+Question & Answer Application on custom document using Retrieval Augmented Generation (RAG) using Large Language Model (LLM). 
+
 ---
 title: RAG QnA
 emoji: 🏃
@@ -10,4 +12,4 @@ pinned: false
 license: apache-2.0
 ---
 
-Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+
